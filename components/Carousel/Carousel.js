@@ -26,6 +26,7 @@ const leftButton = document.querySelector('.left-button');
 let counter = 0;
 let slides = Array.from(document.querySelectorAll('.carousel img'))
 let amount = slides.length;
+var current = slides[0]
 
 console.log(carousel2)
 
