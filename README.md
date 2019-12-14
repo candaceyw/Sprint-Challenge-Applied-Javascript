@@ -38,16 +38,16 @@ Edit this document to include your answers after each question. Make sure to lea
 
 3. What is an event listener?
 
-    Event Listeners are specific elements that listen to events and return a callback. 
-    If we add a click event listener the when teh element is clicked it will do what we programmed it to do, like change colors or popup an alert.
+       Event Listeners are specific elements that listen to events and return a callback. 
+       If we add a click event listener the when teh element is clicked it will do what we programmed it to do, like change colors or popup an alert.
 
 4. Why would we convert a NodeList into an Array?
 
-    a NodeList are broswer API, not JavaScript API, so we are unable to use helpful methods like forEach without converting to an array.
+       a NodeList are broswer API, not JavaScript API, so we are unable to use helpful methods like forEach without converting to an array.
 
 5. What is a component?
 
-     Components are reusable pieces of code that can be used to build elements sharing functionality and styling. A component is made of several parts: HTML, CSS, or JavaScript brought together for reuse in a website or application.
+       Components are reusable pieces of code that can be used to build elements sharing functionality and styling. A component is made of several parts: HTML, CSS, or JavaScript brought together for reuse in a website or application.
 
 
 
